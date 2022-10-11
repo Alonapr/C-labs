@@ -1,1 +1,1 @@
-# C-labs
+Generating pseudorandom numbers using various methods.
